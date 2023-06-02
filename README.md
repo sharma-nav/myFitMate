@@ -47,8 +47,8 @@ Technologies Used:
 
 App is made by:
 
-    Navneet Sharma, 1901640100179, 8840168823
-    Abhishek Kushwaha, 1901640100013, 6392333145
-    Navneet Verma, 1901640100180, 7270863104
+    Navneet Sharma,Aktu Roll No. - 1901640100179, Contact - 8840168823
+    Abhishek Kushwaha, Aktu Roll No. - 1901640100013, Contact - 6392333145
+    Navneet Verma, Aktu Roll No. - 1901640100180, Contact - 7270863104
    
 Group id: 23E09
