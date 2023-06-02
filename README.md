@@ -1,5 +1,5 @@
 # myFitMate
-An Andorid App for fitness built using Kotlin, XML, and Firebase. The app allows users to track their workouts, set goals, and monitor their progress over time.<br>
+An Andorid App for fitness built using Java, XML, and Firebase. The app allows users to track their workouts, set goals, and monitor their progress over time.<br>
 Setup Instructions
 
 To set up the application locally, follow the steps below:
