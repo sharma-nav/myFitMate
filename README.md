@@ -48,5 +48,6 @@ Technologies Used
 
 Contributors
 
-    John Doe (@johndoe)
-    Jane Smith (@janesmith)
+    Navneet Sharma
+    Abhishek Kushwaha
+    Navneet Verma
