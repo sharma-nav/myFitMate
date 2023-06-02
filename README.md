@@ -31,7 +31,7 @@ Installation
         Connect your Android device to your computer using a USB cable, or use an emulator.
         Click on the "Run" button in Android Studio to build and run the application on your device.
 
-Congratulations! You have successfully set up the fitness application on your local machine.
+Now, you have successfully set up the fitness application on your local machine.
 Features
 
     User authentication: Users can create accounts and log in to the application using their email address or social media accounts.
