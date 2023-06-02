@@ -31,7 +31,7 @@ Installation
         Connect your Android device to your computer using a USB cable, or use an emulator.
         Click on the "Run" button in Android Studio to build and run the application on your device.
 
-Now, you have successfully set up the fitness application on your local machine.
+Now, you have successfully set up the fitness application on your local machine.<br>
 Features
 
     User authentication: Users can create accounts and log in to the application using their email address or social media accounts.
@@ -40,13 +40,13 @@ Features
     Exercise library: The app provides a library of exercises with instructions and videos for each exercise.
     Social features: Users can connect with friends, join groups, and participate in challenges to stay motivated.
 
-Technologies Used
+Technologies Used:
 
     Kotlin: The application is built using the Kotlin programming language, which is the preferred language for Android development.
     XML: XML is used for designing the user interface of the application.
     Firebase: Firebase is used for user authentication, real-time database, and cloud storage functionalities.
 
-Contributors
+App is made by:
 
     Navneet Sharma
     Abhishek Kushwaha
