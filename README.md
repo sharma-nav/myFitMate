@@ -47,6 +47,8 @@ Technologies Used:
 
 App is made by:
 
-    Navneet Sharma
-    Abhishek Kushwaha
-    Navneet Verma
+    Navneet Sharma, 1901640100179, 8840168823
+    Abhishek Kushwaha, 1901640100013, 6392333145
+    Navneet Verma, 1901640100180, 7270863104
+   
+Group id: 23E09
