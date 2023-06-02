@@ -7,7 +7,7 @@ Prerequisites
 
     Android Studio: Make sure you have Android Studio installed on your machine. You can download it from the official Android Studio website.
 
-Installation
+Installation:
 
     Clone the repository to your local machine using the following command:
 
@@ -31,7 +31,7 @@ Installation
         Click on the "Run" button in Android Studio to build and run the application on your device.
 
 Now, you have successfully set up the fitness application on your local machine.<br>
-Features
+Features:
 
     User authentication: Users can create accounts and log in to the application using their email address or social media accounts.
     Workout tracking: Users can log their workouts and track their progress over time.
