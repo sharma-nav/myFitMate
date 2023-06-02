@@ -13,7 +13,7 @@ Installation:
 
     bash
 
-    git clone https://github.com/your-username/fitness-app.git
+    git clone https://github.com/sharma-nav/fitness-app.git
 
     Open Android Studio and select "Open an existing Android Studio project".
 
