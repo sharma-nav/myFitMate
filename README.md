@@ -41,14 +41,14 @@ Features:
 
 Technologies Used:
 
-    Kotlin: The application is built using the Kotlin programming language, which is the preferred language for Android development.
+    Java: The application is built using the Java programming language, which is the preferred language for Android development.
     XML: XML is used for designing the user interface of the application.
-    Firebase: Firebase is used for user authentication, real-time database, and cloud storage functionalities.
+    PostgreSQL: PostgreSQL is used for user authentication, real-time database, and other storage functionalities.
 
 App is made by:
 
-    Navneet Sharma,Aktu Roll No. - 1901640100179, Contact - 8840168823
-    Abhishek Kushwaha, Aktu Roll No. - 1901640100013, Contact - 6392333145
-    Navneet Verma, Aktu Roll No. - 1901640100180, Contact - 7270863104
+    Navneet Sharma,Aktu Roll No. - 1901640100179
+    Abhishek Kushwaha, Aktu Roll No. - 1901640100013
+    Navneet Verma, Aktu Roll No. - 1901640100180
    
 Group id: 23E09
